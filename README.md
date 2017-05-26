@@ -119,6 +119,9 @@ $ Test data - 235.6
 
 $ The model clearly overfitted the training data. The reason being heavy multicollinearity. Principal Component Analysis or other feature decomposition techniques needed.
 
+![orderedqty predictions](https://cloud.githubusercontent.com/assets/26039458/26492038/d326248c-422f-11e7-9451-3bfcbc9374a4.png)
+![orderedqty trend](https://cloud.githubusercontent.com/assets/26039458/26492040/d360d866-422f-11e7-9058-882acd826d12.png)
+
 
 
 3. Comparison study of model
