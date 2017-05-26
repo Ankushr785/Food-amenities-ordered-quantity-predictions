@@ -12,7 +12,7 @@ We need to accurately forecast the quantity of different SKUs (food amenities) t
 1. Data variables and definition
 
 $ AvgSP - Average Selling price time series
-![alt text](https://drive.google.com/drive/u/1/folders/0B5l6XM87nQRkdWNOVXpJS1IyV2c)
+![avgsp vs time](https://cloud.githubusercontent.com/assets/26039458/26490509/357a97aa-4229-11e7-83f9-7f02c1ea1db5.png)
 
 $ Wholesale - Wholesale price time series
 
