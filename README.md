@@ -14,13 +14,21 @@ We need to accurately forecast the quantity of different SKUs (food amenities) t
 $ AvgSP - Average Selling price time series
 ![avgsp vs time](https://cloud.githubusercontent.com/assets/26039458/26490509/357a97aa-4229-11e7-83f9-7f02c1ea1db5.png)
 
+
 $ Wholesale - Wholesale price time series
+![wholesale trend](https://cloud.githubusercontent.com/assets/26039458/26491780/aa4eb408-422e-11e7-9eaa-9816be117590.png)
+
 
 $ RetailPrice - Retail Price time series
+![retailprice trend](https://cloud.githubusercontent.com/assets/26039458/26491816/bff46820-422e-11e7-86bf-ba5ee5885b29.png)
+
 
 $ FinalGRN - Aggregated cost price time series
+![finalgrn trend](https://cloud.githubusercontent.com/assets/26039458/26491835/cf9a6158-422e-11e7-8166-8984c7554b3b.png)
+
 
 $ TotalGTOrders - Time series of the total customers across all SKUs
+![totalgtorders trend](https://cloud.githubusercontent.com/assets/26039458/26491845/d4db82d2-422e-11e7-9c83-f32d25b59159.png)
 
 
 
