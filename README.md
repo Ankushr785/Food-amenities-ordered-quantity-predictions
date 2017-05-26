@@ -55,6 +55,8 @@ $ The values below 250 were converted to 250 and the values above 900 were conve
 
 
 2. Summary statistics
+![summary stats](https://cloud.githubusercontent.com/assets/26039458/26491918/3bd268fc-422f-11e7-9202-f80c42b3782f.PNG)
+
 
        
 
