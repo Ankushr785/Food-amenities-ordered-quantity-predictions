@@ -1,5 +1,5 @@
 # Food-amenities-ordered-quantity-predictions
-A comprehensive repository containing the step by step approach to increasing the predictive accuracy of ordered quantities
+A comprehensive repository containing the step by step approach to increasing the predictive accuracy of ordered quantities.
 
 
 ***Business Problem***
