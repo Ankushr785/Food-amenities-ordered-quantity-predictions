@@ -1,5 +1,7 @@
 # Food-amenities-ordered-quantity-predictions
 A comprehensive repository containing the step by step approach to increasing the predictive accuracy of ordered quantities
+
+
 ***Business Problem***
                 
 We need to accurately forecast the quantity of different SKUs (food amenities) that will be ordered by customers in the future based on the past data.
